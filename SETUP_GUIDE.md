@@ -15,8 +15,8 @@ Before setting up the project, ensure you have:
 **Option A: Using Git**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mental-health-prediction.git
-cd mental-health-prediction
+git clone https://github.com/mfadliridhani/mental-health-prediction-framework.git
+cd mental-health-prediction-framework
 ```
 
 **Option B: Download ZIP**
