@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Results (optional - comment out if you want to commit results)
+# results/*.csv
+# figures/*.png
+# figures/*.html
+
+# Data files (optional - large files)
+# data/*.csv
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Model files (if saving trained models)
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Temporary files
+*.tmp
+temp/
+tmp/
