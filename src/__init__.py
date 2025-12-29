@@ -13,8 +13,8 @@ Modules:
 """
 
 __version__ = "1.0.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "M. Fadli Ridhani"
+__email__ = "mfadliridhani@gmail.com"
 
 from . import config
 from . import data_loader
